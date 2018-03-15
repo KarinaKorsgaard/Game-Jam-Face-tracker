@@ -1,0 +1,6 @@
+ofxAutoReloadedShader
+ofxCv
+ofxDelaunay
+ofxFaceTracker
+ofxOpenCv
+ofxTiming
